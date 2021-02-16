@@ -58,7 +58,7 @@ This application is covered by the [MIT](https://choosealicense.com/licenses/mit
 ### Development
 
 The app is still in development and future updates will include:
-- Adding routing to the application
+- Adding routing to the application and enabling checkout 
 - Adding Redux to the project
 
 ### Contributing
